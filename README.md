@@ -1,0 +1,2 @@
+# Road Accident Analysis Data science Web application
+Data science web application for analysis motor vehicle collision in a city. Streamlit web app
